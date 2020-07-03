@@ -1,0 +1,7 @@
+.primeira-letra-maiuscula {
+    text-transform: capitalize;
+}
+
+td {
+    vertical-align: middle !important;
+}
