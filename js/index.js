@@ -33,6 +33,9 @@ $(document).ready(function() {
             {"targets": 1, "orderable": false},
             {"targets": 2, "orderable": true, "className": "primeira-letra-maiuscula"},
             {"targets": 3, "orderable": false, "className": "primeira-letra-maiuscula"},
-        ]
+        ],
+        "language": {
+            "search": "Pesquisar"
+        }
     });
 });
